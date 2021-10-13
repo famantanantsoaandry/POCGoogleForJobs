@@ -6,6 +6,14 @@
 *.ko
 *.obj
 *.elf
+*.suo
+*.user
+_ReSharper.*
+*.bin
+*.packages
+bin
+obj
+vs
 
 # Linker output
 *.ilk
